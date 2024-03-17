@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1706.7
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetRabbitMQSender", "DotnetRabbitMQDemo\DotnetRabbitMQSender.csproj", "{6CDA146B-6C9E-46B2-A0AE-70077CECF975}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotnetRabbitMQSender", "DotnetRabbitMQDemo\DotnetRabbitMQSender.csproj", "{6CDA146B-6C9E-46B2-A0AE-70077CECF975}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetRabbitMQReciever", "DotnetRabbitMQReciever\DotnetRabbitMQReciever.csproj", "{8CFD2F2D-4FBF-4FF8-99F5-62B3EBDC77DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotnetRabbitMQReciever", "DotnetRabbitMQReciever\DotnetRabbitMQReciever.csproj", "{8CFD2F2D-4FBF-4FF8-99F5-62B3EBDC77DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetRabbitMQReceiver2", "DotnetRabbitMQReceiver2\DotnetRabbitMQReceiver2.csproj", "{890C1C0D-6F81-481D-B8B4-B2E0FE7FA01C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{8BCBB3F0-7928-47C6-959C-A834FBDB03EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{8CFD2F2D-4FBF-4FF8-99F5-62B3EBDC77DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CFD2F2D-4FBF-4FF8-99F5-62B3EBDC77DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CFD2F2D-4FBF-4FF8-99F5-62B3EBDC77DE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{890C1C0D-6F81-481D-B8B4-B2E0FE7FA01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{890C1C0D-6F81-481D-B8B4-B2E0FE7FA01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{890C1C0D-6F81-481D-B8B4-B2E0FE7FA01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{890C1C0D-6F81-481D-B8B4-B2E0FE7FA01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCBB3F0-7928-47C6-959C-A834FBDB03EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCBB3F0-7928-47C6-959C-A834FBDB03EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCBB3F0-7928-47C6-959C-A834FBDB03EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCBB3F0-7928-47C6-959C-A834FBDB03EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
